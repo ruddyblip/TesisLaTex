@@ -22,6 +22,6 @@ Es donde están las imágenes que se necesito para el proyecto
 - Tesis_umsa.cls
 - Biblioapa.bib
 - Thesis_Umsa.tex (de donde se puede compilar y realizar los cambios como "Postulantes, mencion, tutor etc.")
-- *El archivo Caratula.tex (se puede dejar a un lado ya que se incluyo a *Thesis_Umsa.tex* )
+- El archivo Caratula.tex (se puede dejar a un lado ya que se incluyo a *Thesis_Umsa.tex* )
 
 
